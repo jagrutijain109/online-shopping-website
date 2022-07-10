@@ -1,0 +1,133 @@
+
+
+.android-small-24 {
+  padding: 0 0 200.31px;
+    background-color: lavenderblush;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+b{
+    font-family: cursive;
+}
+.flex-wrapper-one {
+    background-color: plum;
+  margin-bottom: 19.69px;
+  padding: 17px 166.17px 22px 14.5px;
+  display: flex;
+  align-items: flex-start;
+}
+.chevron-left {
+  margin-right: 17.33px;
+  padding: 6px 9px;
+  display: flex;
+  align-items: center;
+}
+.vector {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.conform-order {
+  font-family: "RocknRoll One";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+.button
+{
+    background-color: red;
+    border-radius: 25px;
+    align-items: center;
+    margin-left: 110px;
+    
+}
+.vector-two {
+  width: 1.21%;
+  height: 0.99%;
+  margin-bottom: 15.96px;
+  margin-left: 31.99px;
+}
+.flex-wrapper-two {
+  background-color: rgba(195, 243, 191, 1);
+  margin-bottom: 33px;
+  padding: 0 7.03px 5px 9.97px;
+  display: flex;
+  align-items: center;
+}
+.place-your-order {
+  font-family: "Bree Serif";
+  font-size: 18px;
+  font-weight: 400;
+  align-content: center;
+  color: var(--black);
+}
+.flex-wrapper-four {
+  margin-bottom: 19.69px;
+  padding: 0 0 0 43.76px;
+  display: flex;
+  align-items: flex-start;
+}
+.name {
+  font-family: "Bree Serif";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 10.24px;
+}
+.rectangle-45 {
+  width: 195px;
+  height: 30px;
+  background-color: rgba(231, 230, 235, 1);
+}
+.flex-wrapper-five {
+  margin-bottom: 19.31px;
+  padding: 0 0 0 24.26px;
+  display: flex;
+  align-items: center;
+}
+.email-id {
+  height: 22px;
+  width: 72px;
+  font-family: "Bree Serif";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  display: flex;
+  margin-right: 9.74px;
+}
+.flex-wrapper-six {
+  margin-bottom: 17.19px;
+  padding: 0 0 0 13.83px;
+  display: flex;
+  align-items: center;
+}
+.phone-no {
+  font-family: "Bree Serif";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 10.17px;
+}
+.flex-wrapper-seven {
+  margin-bottom: 26px;
+  padding: 0 0 0 26.04px;
+  display: flex;
+  align-items: flex-start;
+}
+.relative-wrapper-one {
+  margin-right: 9.96px;
+  position: relative;
+}
+.
+.address {
+  font-family: "Bree Serif";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}

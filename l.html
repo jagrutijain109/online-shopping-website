@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <link rel="stylesheet" href="C:\\Users\\USER\\Desktop\\pyton pro\\l.css">
+    </head>
+    <body>
+<div class="android-small-24">
+  <div class="flex-wrapper-one">
+    <div class="chevron-left">
+        <a href="C:\\Users\\USER\\Desktop\\pyton pro\\p2.html">
+      <img
+        alt=""
+        class="vector"
+        src="https://static.overlay-tech.com/assets/596b7548-79ac-48ca-906d-d6c98f77fc6f.svg"
+           /></a>
+    </div>
+      <p class="conform-order"><b>Conform Order</b></p>
+  </div>
+  <div class="flex-wrapper-two">
+      <p class="place-your-order"><b>Place your order</b></p>
+  </div>
+   
+    <form name="enquiry_form" method="post" id="enquiry_form">
+
+        <b>Name:</b>
+    <input class="input-style" name="name"  id="name" type="text" required/> <br><br>
+    <b>Email:
+    <input class="input-style" name="email"  id="email" type="email" required/><br><br>
+    Phone:
+    <input name="mobile"  id="mobile" type="number" required/><br><br>
+        Address:</b>
+        <input name="address" id="address" type="text" required/><br><br>
+
+    <input type="submit" value="SUBMIT"  id="enq_submit" class="button" onclick="location.href='C:\\Users\\USER\\Desktop\\pyton pro\\las.html';" value="submission"><br>
+</form>
+        </div>
+        <script>
+        $('#enquiry_form').validate({
+      rules:{
+      name:"required",
+      email:{
+      required:true,
+      email:true
+      },
+      mobile:{
+          required:true,
+      minlength:9,
+      maxlength:10,
+      }
+      },
+      messages:{
+      name:"Please enter your username..!",
+      email:"Please enter your email..!",
+          mobile:"Enter your mobile no",
+          address:"Enter your address",
+      },
+        var mobile=string_or_number;
+            if(mobile.length!=10)
+            {
+                alert("Enter valid number");
+
+            }
+            intRegex = /[0-9 -()+]+$/;
+            is_mobile=true;
+            for ( var i=0; i < 10; i++) {
+                if(intRegex.test(mobile[i]))
+                     { 
+                     continue;
+                     }
+                    else{
+                        is_mobile=false;
+                        break;
+                    }
+                 }
+            return is_mobile;
+            },
+      submitHandler: function(form) {
+            alert("working");
+      }
+      });
+    
+
+</script>
+        <script>
+            if( name==String && mobile.length==10 && email==email)
+                {
+                    function myfun()
+                    {
+                        alert("Information saved");
+                    }
+                }
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.1-0/firebase.js"></script>
+        <script src="./main.js"></script>
+
+    </body>
+</html>

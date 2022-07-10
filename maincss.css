@@ -1,0 +1,84 @@
+body.main
+{
+    align-items: center;
+}
+a
+{
+    text-decoration: none;
+}
+.android-small-25 {
+  background-color: white;
+  overflow: hidden;
+  padding: 267.28px 6.39px 30.27px 22.79px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.shopping-mall {
+  height: 11px;
+  width: 220px;
+  font-family: "Rockwell";
+  font-size: 23px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(141, 19, 19, 1);
+  display: flex;
+  margin-left: 25.6px;
+}
+.girls-fashion-center {
+  font-family: "Bree Serif";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(22, 20, 26, 1);
+  margin-bottom: 9.73px;
+  margin-left: 20.21px;
+}
+.flex-wrapper-one {
+  display: flex;
+  align-items: center;
+}
+.flex-wrapper-one:not(:last-of-type) {
+  margin-bottom: 38.58px;
+}
+.ellipse-1 {
+  width: 155.21px;
+  height: 115.21px;
+  margin-right: 10.79px;
+  box-shadow: 0 2px 4px 0 var(--transparent-black);
+  border: 1px solid rgba(233, 109, 228, 1);
+  border-radius: 50%;
+}
+.ellipse-3 {
+  width: 157.21px;
+  height: 117.21px;
+}
+.ellipse-2 {
+  width: 155.21px;
+  height: 115.21px;
+  margin-right: 16.4px;
+  box-shadow: 0 2px 4px 0 var(--transparent-black);
+  border: 1px solid rgba(233, 109, 228, 1);
+  border-radius: 50%;
+}
+.relative-wrapper-one {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 0;
+    height: auto;
+}
+.chevron-right {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+    align-items: center;
+  right: -0.61px;
+  top: 98.7px;
+}
+.shop-1 {
+  width: 360px;
+  height: 240px;
+  position: relative;
+}

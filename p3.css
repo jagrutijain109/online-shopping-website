@@ -1,0 +1,363 @@
+.android-small-25 {
+  overflow: hidden;
+  padding: 120.09px 22.1px 38px 24.04px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.flex-wrapper-nine {
+  margin-bottom: 26.7px;
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-thirteen {
+  margin-right: 22.47px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ellipse-5 {
+  width: 46px;
+  height: 58.91px;
+  margin-bottom: 3px;
+  box-shadow: 0 2px 4px 0 rgba(250, 211, 244, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.ring {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 14.23px;
+}
+.flex-wrapper-fourteen {
+  margin-right: 17.96px;
+  padding: 0.01px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ellipse-6 {
+  width: 46px;
+  height: 58.9px;
+  margin-bottom: 3px;
+  box-shadow: 0 2px 4px 0 rgba(242, 115, 237, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.earring {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 5.42px;
+}
+.flex-wrapper-fifteen {
+  margin-right: 21.54px;
+  padding: 3.01px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ellipse-7 {
+  width: 46px;
+  height: 58.9px;
+  margin-left: 1.46px;
+  box-shadow: 0 2px 4px 0 rgba(242, 115, 237, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.necklace {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+.relative-wrapper-four {
+  margin-top: 5.11px;
+  margin-right: 16.43px;
+  position: relative;
+}
+.ellipse-8 {
+  width: 46px;
+  height: 58.9px;
+  position: relative;
+  box-shadow: 0 2px 4px 0 rgba(242, 115, 237, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.ankled {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+.relative-wrapper-three {
+  margin-top: 3.01px;
+  position: relative;
+}
+.ellipse-9 {
+  width: 46px;
+  height: 61px;
+  position: relative;
+  box-shadow: 0 2px 4px 0 rgba(242, 115, 237, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.crown {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+  left: 3.11px;
+  bottom: -27.9px;
+}
+.flex-wrapper-ten {
+  margin-bottom: 12.7px;
+  padding: 0 0 0 1.44px;
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-two {
+  background-color: rgba(251, 240, 240, 1);
+  padding: 0 0 1.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flex-wrapper-two:not(:last-of-type) {
+  margin-right: 17.89px;
+}
+.rectangle-17 {
+  width: 144.9px;
+  height: 88.81px;
+}
+.flex-wrapper-sixteen {
+  padding: 0 0 0 3.94px;
+  display: flex;
+  align-items: flex-start;
+}
+.diamond-ring {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 42.52px;
+}
+.num-60 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-top: 9.99px;
+}
+.relative-wrapper-one {
+  margin-bottom: 7.65px;
+  position: relative;
+}
+.rectangle-19 {
+  width: 144.74px;
+  height: 91.15px;
+  position: relative;
+}
+.fancy-earring {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+  left: 8.01px;
+  bottom: -30.66px;
+}
+.num-95 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 120.34px;
+}
+.flex-wrapper-eleven {
+  padding: 0 0 0 2.9px;
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-eleven:not(:last-of-type) {
+  margin-bottom: 21.7px;
+}
+.flex-wrapper-four {
+  background-color: rgba(251, 240, 240, 1);
+  margin-right: 17.89px;
+  padding: 0 0 2.11px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle-29 {
+  width: 143.44px;
+  height: 86.2px;
+}
+.flex-wrapper-seventeen {
+  padding: 0 0 0 7.06px;
+  display: flex;
+  align-items: flex-start;
+}
+.sizzling-fance-rings {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 9.18px;
+}
+.relative-wrapper-five {
+  position: relative;
+}
+.flex-wrapper-five {
+  background-color: rgba(251, 240, 240, 1);
+  padding: 86.2px 2.71px 2.11px 7.74px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+.twinkling-necklace {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 12.99px;
+}
+.rectangle-30 {
+  width: 144.74px;
+  height: 86.2px;
+  position: absolute;
+  left: -1.01px;
+  top: 0;
+}
+.flex-wrapper-six {
+  background-color: rgba(251, 240, 240, 1);
+  margin-right: 15.18px;
+  padding: 0 0 0.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flex-wrapper-eighteen {
+  padding: 0 0 0 5.6px;
+  display: flex;
+  align-items: flex-start;
+}
+.designer-ankled {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 32.89px;
+}
+.num-100 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-top: 12px;
+}
+.flex-wrapper-seven {
+  background-color: rgba(251, 240, 240, 1);
+  padding: 0 0 12.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.princess-crown {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 2.71px;
+}
+.num-235 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+  right: -0.47px;
+  bottom: 0.1px;
+}
+.relative-wrapper-two {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 81px;
+  top: 0;
+}
+
+.in1
+{
+    border: 0.5px;
+    font-size: 13px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: -0.5px;
+    border: solid grey 0.5px;
+    padding: 8px 150px 0px 8px;
+    display: flex;
+  position: absolute;
+
+}
+.search-products {
+  font-family: "Bree Serif";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(123, 124, 126, 1);
+}
+.flex-wrapper-eight {
+  background-color: rgba(184, 229, 235, 1);
+  padding: 16px 22.1px 46.51px 17.12px;
+  display: flex;
+  align-items: center;
+    margin-left: 495px;
+}
+.chevron-left {
+  margin-top: 0px;
+  margin-right: 11.97px;
+  padding: 6px 9px;
+  display: flex;
+  align-items: center;
+}
+.vector-two {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.jewellery {
+  font-family: "RocknRoll One";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 176.84px;
+}
+.bell {
+  width: 24px;
+  height: 24px;
+  margin-top: 3.19px;
+}

@@ -1,0 +1,455 @@
+*,body{
+    align-content: center;
+}
+html{
+    zoom: 100%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.android-small-25 {
+  overflow: hidden;
+  padding: 0.35px 0 38px;
+  display: flex;
+  flex-direction: column;
+    margin-top: -60px;
+  align-items: center;
+  position: relative;
+}
+.relative-wrapper-four {
+    top: 60px;
+   background-color: rgba(184, 229, 235, 1);
+  padding: 12px 13px 15px 15px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+.chevron-left {
+  margin-top: 6.01px;
+  margin-right: 11.5px;
+  padding: 6px 9px;
+  display: flex;
+  align-items: center;
+}
+/*.flex-wrapper-eight {
+  border-radius: 30px;
+  padding: 0px 164.03px 1px 1px;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 7.97px;
+  bottom: -9.69px;
+  
+}*/
+.girls-fashion-center {
+  font-family: "Bree Serif";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 44.5px;
+}
+.bell1 {
+  width: 24px;
+  height: 24px;
+  margin-top: 6.01px;
+}
+.in1
+{
+    border: 0.5px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: -150px;
+    border: solid grey 0.5px;
+    padding: 0px 150px 0px 10px;
+    display: flex;
+  position: absolute;
+
+}
+
+
+.search-products {
+  font-family: "Bree Serif";
+  align-content: flex-start;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(123, 124, 126, 1);
+}
+.flex-wrapper-eight {
+  padding: 16.65px 24.53px 43.75px 14.5px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.chevron-left {
+  width: 24px;
+  height: 24px;
+  margin-right: 26.77px;
+}
+.make-up-products {
+  font-family: "RocknRoll One";
+    padding: 30px 89.7px 0.35px;
+    background-color: skyblue;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+    margin-top: -20px;
+    margin-left: 0px;
+}
+.bell {
+  width: 24px;
+  height: 24px;
+  margin-top: 5.3px;
+}
+.flex-wrapper-nine {
+  margin-bottom: 26.7px;
+  padding: 0 0 0 24.04px;
+  display: flex;
+  align-items: center;
+}
+.flex-wrapper-thirteen {
+  margin-right: 18.43px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ellipse-5 {
+  width: 46px;
+  height: 58.91px;
+  margin-bottom: 3px;
+  box-shadow: 0 2px 4px 0 rgba(250, 211, 244, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.lipstrick {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+.flex-wrapper-fourteen {
+  margin-right: 11px;
+  padding: 0.01px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ellipse-6 {
+  width: 46px;
+  height: 58.9px;
+  margin-bottom: 3px;
+  margin-left: 4.04px;
+  box-shadow: 0 2px 4px 0 rgba(242, 115, 237, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.flex-wrapper-fifteen {
+  margin-right: 11px;
+  padding: 3.01px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ellipse-7 {
+  width: 46px;
+  height: 58.9px;
+  margin-left: 1.46px;
+  box-shadow: 0 2px 4px 0 rgba(242, 115, 237, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.relative-wrapper-six {
+  margin-top: 3px;
+  margin-right: 16.43px;
+  position: relative;
+}
+.ellipse-8 {
+  width: 46px;
+  height: 58.9px;
+  margin-bottom: 25px;
+  margin-left: 4.04px;
+  position: relative;
+  box-shadow: 0 2px 4px 0 rgba(242, 115, 237, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.mascara {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+  right: 0;
+  bottom: -3.9px;
+}
+.relative-wrapper-five {
+  margin-top: 3.01px;
+  position: relative;
+}
+.ellipse-9 {
+  width: 46px;
+  height: 58.9px;
+    margin-bottom: 25px;
+  margin-left: 4.04px;
+  position: relative;
+  box-shadow: 0 2px 4px 0 rgba(242, 115, 237, 0.25);
+  border: 1px solid rgba(247, 146, 231, 1);
+  border-radius: 50%;
+}
+.brushes {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+right: 4px;
+  bottom: -5.4px;
+}
+.flex-wrapper-ten {
+  margin-bottom: 12.7px;
+  padding: 0 0 0 26.5px;
+  display: flex;
+  align-items: center;
+}
+.flex-wrapper-two {
+  background-color: rgba(251, 240, 240, 1);
+  padding: 0 0 1.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.flex-wrapper-two:not(:last-of-type) {
+  margin-right: 16.87px;
+}
+.rectangle-17 {
+  width: 144.9px;
+  height: 88.81px;
+}
+.flex-wrapper-sixteen {
+  padding: 0 0 0 9.59px;
+  display: flex;
+  align-items: flex-start;
+}
+.lipstick-pack-of-6 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 18.87px;
+}
+.num-50 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-top: 9.99px;
+}
+.relative-wrapper-one {
+  margin-right: 0.8px;
+  position: relative;
+}
+.rectangle-19 {
+  width: 144.9px;
+  height: 88.81px;
+}
+.sugar-make-up-kit {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+    margin-left: 10px;
+  margin-right: 18.87px;
+}
+.num-350 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 120.34px;
+}
+.flex-wrapper-eleven {
+  padding: 0 0 0 27.23px;
+  display: flex;
+  align-items: center;
+}
+.flex-wrapper-eleven:not(:last-of-type) {
+  margin-bottom: 21.7px;
+}
+.flex-wrapper-four {
+  background-color: rgba(251, 240, 240, 1);
+  margin-right: 17.6px;
+  padding: 0 0 2.11px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rectangle-29 {
+  width: 143.44px;
+  height: 86.2px;
+}
+.flex-wrapper-seventeen {
+  padding: 0 0 0 7.06px;
+  display: flex;
+  align-items: center;
+}
+.lakme-foundation {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 18.18px;
+}
+.flex-wrapper-five {
+  background-color: rgba(251, 240, 240, 1);
+  padding: 0 0 2.11px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.relative-wrapper-two {
+  margin-left: 5.34px;
+  position: relative;
+}
+.fancy-makeup-brushes {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+    margin-left: 0px;
+    margin-bottom: 12px;
+  line-height: normal;
+  color: var(--black);
+  position: relative;
+}
+.num-185 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+  right: -12.39px;
+  bottom: -9.99px;
+}
+.flex-wrapper-six {
+  background-color: rgba(251, 240, 240, 1);
+  margin-right: 14.89px;
+  padding: 0 0 0.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.relative-wrapper-three {
+  margin-bottom: 3px;
+  position: relative;
+}
+.rectangle-27 {
+  width: 143.44px;
+  height: 86.2px;
+  position: relative;
+}
+.premium-intense-mascara {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+  left: 3.1px;
+  bottom: -28px;
+}
+.num-110 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 117px;
+  margin-bottom: 10px;
+}
+.relative-wrapper-seven {
+  position: relative;
+}
+.flex-wrapper-seven {
+  background-color: rgba(251, 240, 240, 1);
+  padding: 0 0 12.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.smudge-proof-eye-shadow {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 2.71px;
+}
+.num-225 {
+  font-family: "Bree Serif";
+  font-size: 11px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  position: absolute;
+  right: -0.47px;
+  bottom: 0.1px;
+}
+.rectangle-18 {
+  width: 159px;
+  height: 126px;
+  background-color: rgba(196, 196, 196, 1);
+  position: absolute;
+  right: -159px;
+  top: 185px;
+}
+b{
+    font-family: cursive;
+    font-style: initial;
+}
+.rectangle-28 {
+  width: 159px;
+  height: 126px;
+  background-color: rgba(196, 196, 196, 1);
+  position: absolute;
+  right: -159px;
+  top: 185px;
+}
+body,html{
+@media (min-width: 1024px)/*or anything else you what this to show/hide*/{
+        .respoonsive-on{
+        text-decoration: none;
+        display: block;
+    }
+    .respoonsive-off{
+        text-decoration: underline;
+        font-weight: bold;
+        display: none;
+    }
+
+}
+}
+@media (max-width: 1024px){
+            .respoonsive-on{
+        text-decoration: underline;
+        font-weight: bold;
+        display: none;
+    }
+        .respoonsive-off{
+        display: block;
+        font-weight: normal;
+    }
+}
+}

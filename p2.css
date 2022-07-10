@@ -1,0 +1,240 @@
+*{
+    align-content: center;
+}
+body,html{
+    font-family:sans-serif;
+}
+b{
+    font-family: cursive;
+}
+.android-small-25 {
+  padding: 0 0 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.relative-wrapper-one {
+  margin-bottom: 44.3px;
+  position: relative;
+}
+.in1
+{
+    border: 0.5px;
+    font-size: 13px;
+    border-radius: 30px;
+    margin-top: 5pxpx;
+    margin-left: 2px;
+    border: solid grey 0.5px;
+    padding: 8px 150px 0px 10px;
+    display: flex;
+  position: absolute;
+
+}
+.flex-wrapper-seven {
+  background-color: rgba(184, 229, 235, 1);
+  padding: 12px 13px 15px 15px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+.chevron-left {
+  margin-top: 6.01px;
+  margin-right: 11.5px;
+  padding: 6px 9px;
+  display: flex;
+  align-items: center;
+}
+.vector {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.girls-fashion-center {
+  font-family: "Bree Serif";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-right: 44.5px;
+}
+.bell1 {
+  width: 24px;
+  height: 24px;
+  margin-top: 6.01px;
+}
+.flex-wrapper-eight {
+  border-radius: 30px;
+  padding: 0px 164.03px 1px 1px;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 7.97px;
+  bottom: -9.69px;
+  
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.s1 {
+  width: 1.8%;
+  height: 10.13%;
+  margin-top: 19.65px;
+  margin-right: 18.86px;
+}
+.search-products {
+  font-family: "Bree Serif";
+  font-size: 24px;
+  font-weight: 450;
+  line-height: normal;
+    margin-top: 0.2px;
+  color: rgba(123, 124, 126, 1);
+}
+.flex-wrapper-nine {
+  padding: 0 0 0 7.97px;
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-nine:not(:last-of-type) {
+  margin-bottom: 13px;
+}
+.flex-wrapper-one {
+  background-color: var(--white);
+  margin-right: 28.38px;
+  border-radius: 25px;
+  padding: 5px 6.5px 13px;
+  box-shadow: 0 2px 2px 0 rgba(195, 189, 195, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rectangle-4 {
+  width: 145px;
+  height: 116px;
+  margin-bottom: 5px;
+  box-shadow: 0 2px 2px 0 rgba(250, 215, 230, 1);
+  border-radius: 25px;
+}
+.make-up-products {
+  font-family: "RocknRoll One";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+.flex-wrapper-two {
+  background-color: var(--white);
+  border-radius: 25px;
+  padding: 5px 6.5px 13px;
+  box-shadow: 0 2px 2px 0 rgba(195, 189, 195, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rectangle-6 {
+  width: 145px;
+  height: 116px;
+  margin-bottom: 5px;
+  box-shadow: 0 2px 2px 0 rgba(192, 163, 148, 1);
+  border-radius: 25px;
+}
+.flex-wrapper-ten {
+  margin-bottom: 14.3px;
+    
+  padding: 0 0 0 7.97px;
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-three {
+  background-color: var(--white);
+  margin-right: 28.38px;
+  border-radius: 25px;
+  padding: 5px 6.5px 13px;
+  box-shadow: 0 2px 2px 0 rgba(195, 189, 195, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle-10 {
+  width: 145px;
+  height: 116px;
+  margin-bottom: 5px;
+  box-shadow: 0 2px 2px 0 rgba(196, 195, 168, 1);
+  border-radius: 25px;
+}
+.jewellers {
+  font-family: "RocknRoll One";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+.flex-wrapper-four {
+  background-color: var(--white);
+  border-radius: 25px;
+  padding: 5px 6.5px 10px;
+  box-shadow: 0 2px 2px 0 rgba(195, 189, 195, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rectangle-8 {
+  width: 145px;
+  height: 116px;
+  margin-bottom: 5px;
+  box-shadow: 0 2px 2px 0 rgba(243, 205, 196, 1);
+  border-radius: 25px;
+}
+.foot-wear {
+  height: 20px;
+  width: 70px;
+  font-family: "RocknRoll One";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  display: flex;
+}
+.flex-wrapper-five {
+  background-color: var(--white);
+  margin-right: 20.5px;
+  border-radius: 25px;
+  padding: 5px 6.5px 11px;
+  box-shadow: 0 2px 2px 0 rgba(195, 189, 195, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rectangle-20 {
+  width: 145px;
+  height: 116px;
+  margin-bottom: 7px;
+  box-shadow: 0 2px 2px 0 rgba(197, 184, 132, 1);
+  border-radius: 25px;
+}
+.flex-wrapper-six {
+  background-color: var(--white);
+  margin-top: 3.7px;
+  border-radius: 25px;
+  padding: 5px 6.5px 11px;
+  box-shadow: 0 2px 2px 0 rgba(195, 189, 195, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle-16 {
+  width: 145px;
+  height: 116px;
+  margin-bottom: 7px;
+  box-shadow: 0 2px 2px 0 rgba(190, 161, 147, 1);
+  border-radius: 25px;
+}
+.women-jeans {
+  font-family: "RocknRoll One";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  margin-left: 36px;
+}
